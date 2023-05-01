@@ -1,5 +1,1 @@
 # .github
-
-test
-deewqfe
-s
